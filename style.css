@@ -1,7 +1,11 @@
 body{
-background-color: #ff15b1;
+background-color: #ffc1ec;
 }
 
 h1{
     color:blue;
+}
+
+p{
+    color: #7f7f7f;
 }
